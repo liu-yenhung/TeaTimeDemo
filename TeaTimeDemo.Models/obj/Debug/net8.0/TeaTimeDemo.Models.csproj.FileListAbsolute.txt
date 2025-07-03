@@ -1,0 +1,12 @@
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.deps.json
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.dll
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.pdb
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfoInputs.cache
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfo.cs
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.CoreCompileInputs.cache
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.sourcelink.json
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.dll
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\refint\TeaTimeDemo.Models.dll
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.pdb
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll

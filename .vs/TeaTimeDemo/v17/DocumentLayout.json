@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo\\teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo\\teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo\\teatimedemo\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo\\teatimedemo\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo\\teatimedemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo\\teatimedemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,87 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T13:39:06.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "TeaTimeDemo\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-29T09:45:08.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-29T08:21:29.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Models\\Category.cs",
-              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Models\\Category.cs",
-              "RelativeToolTip": "TeaTimeDemo\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T15:14:14.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "TeaTimeDemo\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAuwHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:46:54.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T14:42:33.156Z",
-              "EditorCaption": ""
             }
           ]
         }

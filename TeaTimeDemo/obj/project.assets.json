@@ -1494,6 +1494,42 @@
             "rid": "win"
           }
         }
+      },
+      "TeaTimeDemo.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16",
+          "TeaTimeDemo.Models": "1.0.0",
+          "TeaTimeDemo.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TeaTimeDemo.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeaTimeDemo.DataAccess.dll": {}
+        }
+      },
+      "TeaTimeDemo.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TeaTimeDemo.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeaTimeDemo.Models.dll": {}
+        }
+      },
+      "TeaTimeDemo.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TeaTimeDemo.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeaTimeDemo.Utility.dll": {}
+        }
       }
     }
   },
@@ -3996,13 +4032,29 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TeaTimeDemo.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../TeaTimeDemo.DataAccess/TeaTimeDemo.DataAccess.csproj",
+      "msbuildProject": "../TeaTimeDemo.DataAccess/TeaTimeDemo.DataAccess.csproj"
+    },
+    "TeaTimeDemo.Models/1.0.0": {
+      "type": "project",
+      "path": "../TeaTimeDemo.Models/TeaTimeDemo.Models.csproj",
+      "msbuildProject": "../TeaTimeDemo.Models/TeaTimeDemo.Models.csproj"
+    },
+    "TeaTimeDemo.Utility/1.0.0": {
+      "type": "project",
+      "path": "../TeaTimeDemo.Utility/TeaTimeDemo.Utility.csproj",
+      "msbuildProject": "../TeaTimeDemo.Utility/TeaTimeDemo.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 8.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.16",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.16"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.16",
+      "TeaTimeDemo.DataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4037,7 +4089,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

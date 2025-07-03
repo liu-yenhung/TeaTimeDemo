@@ -143,3 +143,9 @@ D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\runtimes\win\lib
 D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\obj\Debug\net8.0\TeaTimeDemo.csproj.AssemblyReference.cache
 D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\obj\Debug\net8.0\TeaTimeD.02B37419.Up2Date
 D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\obj\Debug\net8.0\TeaTimeDemo.sourcelink.json
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\TeaTimeDemo.DataAccess.dll
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\TeaTimeDemo.Models.dll
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\TeaTimeDemo.Utility.dll
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\TeaTimeDemo.DataAccess.pdb
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\TeaTimeDemo.Models.pdb
+D:\Liu\Practice\ASPNET\TeaTimeDemo\TeaTimeDemo\bin\Debug\net8.0\TeaTimeDemo.Utility.pdb

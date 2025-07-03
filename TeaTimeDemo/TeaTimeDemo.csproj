@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TeaTimeDemo.DataAccess\TeaTimeDemo.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
