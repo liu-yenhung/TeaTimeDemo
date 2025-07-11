@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo-ch06\\teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\liu\\practice\\aspnet\\teatimedemo-ch06\\teatimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3255B1E3-46E6-431F-8E79-D933D5DD01D2}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T14:30:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\Program.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Program.cs",
@@ -50,12 +71,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Controllers\\CategoryController.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "TeaTimeDemo\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAG4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T13:57:11.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T13:57:11.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T13:48:36.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T13:48:36.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T13:44:32.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T13:44:32.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAhwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T13:52:10.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T13:52:10.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
@@ -115,8 +128,7 @@
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T13:39:54.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T13:39:54.012Z"
             }
           ]
         }
