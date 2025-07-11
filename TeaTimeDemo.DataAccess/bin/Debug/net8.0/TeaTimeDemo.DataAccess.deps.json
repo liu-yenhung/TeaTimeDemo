@@ -934,6 +934,10 @@
         }
       },
       "TeaTimeDemo.Models/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
+        },
         "runtime": {
           "TeaTimeDemo.Models.dll": {
             "assemblyVersion": "1.0.0",
@@ -942,6 +946,10 @@
         }
       },
       "TeaTimeDemo.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
+        },
         "runtime": {
           "TeaTimeDemo.Utility.dll": {
             "assemblyVersion": "1.0.0",

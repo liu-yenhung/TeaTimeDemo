@@ -1514,6 +1514,10 @@
       "TeaTimeDemo.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
+        },
         "compile": {
           "bin/placeholder/TeaTimeDemo.Models.dll": {}
         },
@@ -1524,6 +1528,10 @@
       "TeaTimeDemo.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
+        },
         "compile": {
           "bin/placeholder/TeaTimeDemo.Utility.dll": {}
         },
@@ -4064,11 +4072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.csproj",
+      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\TeaTimeDemo.csproj",
       "projectName": "TeaTimeDemo",
-      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.csproj",
+      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\TeaTimeDemo.csproj",
       "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo\\obj\\",
+      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4090,8 +4098,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
-              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
+            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
             }
           }
         }

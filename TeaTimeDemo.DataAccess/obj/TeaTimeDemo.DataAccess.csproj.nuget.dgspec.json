@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
+    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "projectName": "TeaTimeDemo.DataAccess",
-        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\obj\\",
+        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
-                "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
+              "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+                "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
               },
-              "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
-                "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
+              "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+                "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "projectName": "TeaTimeDemo.Models",
-        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
+        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -137,6 +137,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -157,14 +173,14 @@
         }
       }
     },
-    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "projectName": "TeaTimeDemo.Utility",
-        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
+        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,6 +218,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

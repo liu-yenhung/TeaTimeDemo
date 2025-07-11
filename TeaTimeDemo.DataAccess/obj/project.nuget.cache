@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LtnVcxJjisc=",
+  "dgSpecHash": "sgca87sv6Fc=",
   "success": true,
-  "projectFilePath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+  "projectFilePath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lyenh\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lyenh\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
