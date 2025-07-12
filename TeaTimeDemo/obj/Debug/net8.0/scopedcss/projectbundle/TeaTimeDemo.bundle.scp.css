@@ -8,9 +8,12 @@ a.navbar-brand[b-qaebygco5z] {
   word-break: break-all;
 }
 
-a[b-qaebygco5z] {
+/*
+a {
   color: #0077cc;
 }
+*/
+
 
 .btn-primary[b-qaebygco5z] {
   color: #fff;
