@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {}
+    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {}
   },
   "projects": {
-    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+    "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "projectName": "TeaTimeDemo.Models",
-        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\obj\\",
+        "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

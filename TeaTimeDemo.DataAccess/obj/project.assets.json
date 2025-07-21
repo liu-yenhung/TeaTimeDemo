@@ -4052,11 +4052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
       "projectName": "TeaTimeDemo.DataAccess",
-      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
       "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\obj\\",
+      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4078,11 +4078,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
-              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
+            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
             },
-            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
-              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
+            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
             }
           }
         }

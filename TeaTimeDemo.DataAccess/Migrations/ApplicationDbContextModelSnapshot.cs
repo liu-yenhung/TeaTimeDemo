@@ -60,6 +60,60 @@ namespace TeaTimeDemo.DataAccess.Migrations
                             Name = "咖啡"
                         });
                 });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.Property<string>("Size")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "天然果飲",
+                            Name = "台灣水果茶",
+                            Price = 60.0,
+                            Size = "大杯"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "人生味道",
+                            Name = "鐵觀音",
+                            Price = 160.0,
+                            Size = "中杯"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "休閒時光",
+                            Name = "美式咖啡",
+                            Price = 260.0,
+                            Size = "特大杯"
+                        });
+                });
 #pragma warning restore 612, 618
         }
     }

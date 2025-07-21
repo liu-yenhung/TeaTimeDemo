@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
       "projectName": "TeaTimeDemo.Utility",
-      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
       "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.Utility\\obj\\",
+      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7662,11 +7662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\TeaTimeDemo.csproj",
+      "projectUniqueName": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo\\TeaTimeDemo.csproj",
       "projectName": "TeaTimeDemo",
-      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\TeaTimeDemo.csproj",
+      "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo\\TeaTimeDemo.csproj",
       "packagesPath": "C:\\Users\\lyenh\\.nuget\\packages\\",
-      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo\\obj\\",
+      "outputPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7688,8 +7688,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
-              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH06\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
+            "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+              "projectPath": "D:\\Liu\\Practice\\ASPNET\\TeaTimeDemo-CH07\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
             }
           }
         }
